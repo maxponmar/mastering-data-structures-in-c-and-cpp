@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656507743 source:c:\users\maxpo\repositories\mastering-data-structures-in-c-and-cpp\05_12_fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
