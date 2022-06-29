@@ -15,6 +15,6 @@ double e(int x, int n)
 
 int main()
 {
-    printf("%lf \n", e(1,10));
+    printf("%lf \n", e(1,100));
     return 0;
 }
